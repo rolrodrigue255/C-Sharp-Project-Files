@@ -1,0 +1,31 @@
+c:\users\rrodrigue255\documents\visual studio 2010\Projects\Homework6\Homework6\bin\Debug\Homework6.exe
+c:\users\rrodrigue255\documents\visual studio 2010\Projects\Homework6\Homework6\bin\Debug\Homework6.pdb
+c:\users\rrodrigue255\documents\visual studio 2010\Projects\Homework6\Homework6\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rrodrigue255\documents\visual studio 2010\Projects\Homework6\Homework6\obj\x86\Debug\Homework6.Form1.resources
+c:\users\rrodrigue255\documents\visual studio 2010\Projects\Homework6\Homework6\obj\x86\Debug\Homework6.Properties.Resources.resources
+c:\users\rrodrigue255\documents\visual studio 2010\Projects\Homework6\Homework6\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\rrodrigue255\documents\visual studio 2010\Projects\Homework6\Homework6\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\rrodrigue255\documents\visual studio 2010\Projects\Homework6\Homework6\obj\x86\Debug\Homework6.exe
+c:\users\rrodrigue255\documents\visual studio 2010\Projects\Homework6\Homework6\obj\x86\Debug\Homework6.pdb
+C:\Users\Rolando\Downloads\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.exe
+C:\Users\Rolando\Downloads\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.pdb
+C:\Users\Rolando\Downloads\Homework6\Homework6\Homework6\bin\Debug\Homework6.exe
+C:\Users\Rolando\Downloads\Homework6\Homework6\Homework6\bin\Debug\Homework6.pdb
+C:\Users\Rolando\Downloads\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.Form1.resources
+C:\Users\Rolando\Downloads\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.Properties.Resources.resources
+C:\Users\Rolando\Downloads\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.csproj.GenerateResource.Cache
+C:\Users\Rolando\Downloads\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.Form2.resources
+C:\Users\Rolando\Downloads\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.csprojResolveAssemblyReference.cache
+C:\Users\Rolando\Documents\Visual Studio 2010\Projects\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.exe
+C:\Users\Rolando\Documents\Visual Studio 2010\Projects\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.pdb
+C:\Users\Rolando\Documents\Visual Studio 2010\Projects\Homework6\Homework6\Homework6\bin\Debug\Homework6.exe
+C:\Users\Rolando\Documents\Visual Studio 2010\Projects\Homework6\Homework6\Homework6\bin\Debug\Homework6.pdb
+C:\Users\Rolando\Documents\Visual Studio 2010\Projects\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.csprojResolveAssemblyReference.cache
+C:\Users\Rolando\Documents\Visual Studio 2010\Projects\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.Form1.resources
+C:\Users\Rolando\Documents\Visual Studio 2010\Projects\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.Form2.resources
+C:\Users\Rolando\Documents\Visual Studio 2010\Projects\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.Form3.resources
+C:\Users\Rolando\Documents\Visual Studio 2010\Projects\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.Properties.Resources.resources
+C:\Users\Rolando\Documents\Visual Studio 2010\Projects\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.csproj.GenerateResource.Cache
+C:\Users\Rolando\Documents\Visual Studio 2010\Projects\Homework6\Homework6\Homework6\obj\x86\Debug\Homework6.Form4.resources
+C:\Users\Rolando\Desktop\Card Dealer\Homework6\Homework6\obj\x86\Debug\Homework6.exe
+C:\Users\Rolando\Desktop\Card Dealer\Homework6\Homework6\obj\x86\Debug\Homework6.pdb

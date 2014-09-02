@@ -1,0 +1,10 @@
+c:\users\rolando\documents\visual studio 2010\Projects\Homework 8\Homework 8\bin\Debug\Homework 8.exe
+c:\users\rolando\documents\visual studio 2010\Projects\Homework 8\Homework 8\bin\Debug\Homework 8.pdb
+c:\users\rolando\documents\visual studio 2010\Projects\Homework 8\Homework 8\obj\x86\Debug\Homework_8.Form1.resources
+c:\users\rolando\documents\visual studio 2010\Projects\Homework 8\Homework 8\obj\x86\Debug\Homework_8.Properties.Resources.resources
+c:\users\rolando\documents\visual studio 2010\Projects\Homework 8\Homework 8\obj\x86\Debug\Homework 8.csproj.GenerateResource.Cache
+c:\users\rolando\documents\visual studio 2010\Projects\Homework 8\Homework 8\obj\x86\Debug\Homework 8.exe
+c:\users\rolando\documents\visual studio 2010\Projects\Homework 8\Homework 8\obj\x86\Debug\Homework 8.pdb
+C:\Users\Rolando\Documents\Visual Studio 2010\Projects\Homework 8\Homework 8\obj\x86\Debug\Homework 8.csprojResolveAssemblyReference.cache
+C:\Users\Rolando\Desktop\Stack Operations\Homework 8\obj\x86\Debug\Homework 8.exe
+C:\Users\Rolando\Desktop\Stack Operations\Homework 8\obj\x86\Debug\Homework 8.pdb

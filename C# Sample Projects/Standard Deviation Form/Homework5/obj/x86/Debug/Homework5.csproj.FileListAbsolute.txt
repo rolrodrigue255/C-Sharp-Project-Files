@@ -1,0 +1,10 @@
+c:\users\rolando\documents\visual studio 2010\Projects\Homework5\Homework5\bin\Debug\Homework5.exe
+c:\users\rolando\documents\visual studio 2010\Projects\Homework5\Homework5\bin\Debug\Homework5.pdb
+c:\users\rolando\documents\visual studio 2010\Projects\Homework5\Homework5\obj\x86\Debug\Homework5.Form1.resources
+c:\users\rolando\documents\visual studio 2010\Projects\Homework5\Homework5\obj\x86\Debug\Homework5.Properties.Resources.resources
+c:\users\rolando\documents\visual studio 2010\Projects\Homework5\Homework5\obj\x86\Debug\Homework5.csproj.GenerateResource.Cache
+c:\users\rolando\documents\visual studio 2010\Projects\Homework5\Homework5\obj\x86\Debug\Homework5.exe
+c:\users\rolando\documents\visual studio 2010\Projects\Homework5\Homework5\obj\x86\Debug\Homework5.pdb
+C:\Users\Rolando\Documents\Visual Studio 2010\Projects\Homework5\Homework5\obj\x86\Debug\Homework5.csprojResolveAssemblyReference.cache
+C:\Users\Rolando\Desktop\Standard Deviation Form\Homework5\obj\x86\Debug\Homework5.exe
+C:\Users\Rolando\Desktop\Standard Deviation Form\Homework5\obj\x86\Debug\Homework5.pdb
